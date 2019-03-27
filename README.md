@@ -1,1 +1,3 @@
-# multiplos_contadores_independentes
+# Multiplos Contadores Independentes
+
+Aplicação simples utilizando-se multiplas instancias com estados independentes.
